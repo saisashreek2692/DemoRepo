@@ -1,0 +1,14 @@
+Today let's push some data into GIT repo.
+There are couple of steps to undergo while adding data into git.
+Make sure you install git in your system, if not please do insatll git.
+
+Now lets add data into git.
+Step 1: Create a repo link
+Step 2: Initialize a git from project source folder
+Step 3: Add data 
+Step 4: check status
+Step 5: Commit the git
+Step 6: add repo link to project source folder
+Step 7: Push data to git repo
+
+Follow above steps to push or add data to your git repo.
